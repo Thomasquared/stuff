@@ -20,6 +20,6 @@ DEPEND=">=dev-ml/camlidl-0.9.5
 	dev-lang/ocaml
 	sys-fs/fuse:0"
 RDEPEND="${DEPEND}"
-S="${WORKDIR}/${P}-cvs~oasis1"
+S="${WORKDIR}/${P}"
 
 DOCS=( "README.md" )
